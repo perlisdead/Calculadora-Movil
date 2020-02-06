@@ -1,2 +1,2 @@
-# Calculadora-M-vil
-Cálculadora para programaciónd de dispositivos móviles
+# ReactCalculator
+Calculator built using React Native
